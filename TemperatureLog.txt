@@ -18,8 +18,8 @@ Temp: 90*F
 Time: 6PM
 Temp: 90*F
 
-Time: 
-Temp: 
+Time: 9PM
+Temp: 79*F
 
 Time: 
 Temp: 
