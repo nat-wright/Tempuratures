@@ -90,8 +90,8 @@ Temp: 66*F
 Time: 6AM
 Temp: 62*F
 
-Time: 
-Temp: 
+Time: 9AM
+Temp: 71*F
 
 Time: 
 Temp: 
