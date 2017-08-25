@@ -40,8 +40,8 @@ Temp: 71*F
 Time: 12PM
 Temp: 84*F
 
-Time: 
-Temp: 
+Time: 3PM
+Temp: 92*F
 
 Time: 
 Temp: 
