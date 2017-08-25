@@ -9,8 +9,8 @@ Friday
 Time: 9AM
 Temp: 70*F
 
-Time: 
-Temp: 
+Time: 12PM
+Temp: 80*F
 
 Time: 
 Temp: 
