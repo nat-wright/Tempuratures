@@ -12,8 +12,8 @@ Temp: 70*F
 Time: 12PM
 Temp: 80*F
 
-Time: 
-Temp: 
+Time: 3PM
+Temp: 90*F
 
 Time: 
 Temp: 
