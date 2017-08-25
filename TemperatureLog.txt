@@ -28,8 +28,8 @@ Saturday
 Time: 12AM
 Temp: 70*F
 
-Time: 
-Temp: 
+Time: 3AM
+Temp: 67*F
 
 Time: 
 Temp: 
