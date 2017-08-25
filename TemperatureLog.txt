@@ -102,5 +102,5 @@ Temp: 92*F
 Time: 6PM
 Temp: 91*F
 
-Time: 
-Temp: 
+Time: 9PM
+Temp: 80*F
