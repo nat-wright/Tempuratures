@@ -6,29 +6,29 @@ Provo Temperatures - Friday 8/25/2017-Monday 8/28/2017
 
 Friday
 
-Time:
-Temp:
+Time: 9AM
+Temp: 70*F
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
 
 
