@@ -31,8 +31,8 @@ Temp: 70*F
 Time: 3AM
 Temp: 67*F
 
-Time: 
-Temp: 
+Time: 6AM
+Temp: 63*F
 
 Time: 
 Temp: 
