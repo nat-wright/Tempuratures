@@ -1,6 +1,6 @@
 Hello World!
 
-Provo Temperatures - Friday 8/25/2017-Monday 8/28/2017
+Provo Temperatures - Friday 8/25/2017-Tuesday 8/29/2017
 
 
 
@@ -104,3 +104,31 @@ Temp: 91*F
 
 Time: 9PM
 Temp: 80*F
+
+
+
+Tuesday
+
+Time: 12AM
+Temp: 
+
+Time: 3AM
+Temp: 
+
+Time: 6AM
+Temp: 
+
+Time: 9AM
+Temp: 
+
+Time: 12PM
+Temp: 
+
+Time: 3PM
+Temp: 
+
+Time: 6PM
+Temp: 
+
+Time: 9PM
+Temp: 
