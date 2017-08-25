@@ -37,8 +37,8 @@ Temp: 63*F
 Time: 9AM
 Temp: 71*F
 
-Time: 
-Temp: 
+Time: 12PM
+Temp: 84*F
 
 Time: 
 Temp: 
