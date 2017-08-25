@@ -81,26 +81,26 @@ Temp: 78*F
 
 Monday
 
-Time:
-Temp:
+Time: 12AM
+Temp: 69*F
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
