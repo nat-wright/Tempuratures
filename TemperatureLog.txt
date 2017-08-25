@@ -21,42 +21,33 @@ Temp: 90*F
 Time: 9PM
 Temp: 79*F
 
-Time: 
-Temp: 
-
-Time: 
-Temp: 
-
-Time: 
-Temp: 
-
 
 
 Saturday
 
-Time:
-Temp:
+Time: 12AM
+Temp: 70*F
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
 
 
