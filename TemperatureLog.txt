@@ -84,8 +84,8 @@ Monday
 Time: 12AM
 Temp: 69*F
 
-Time: 
-Temp: 
+Time: 3AM
+Temp: 66*F
 
 Time: 
 Temp: 
