@@ -53,29 +53,29 @@ Temp: 80*F
 
 Sunday
 
-Time:
-Temp:
+Time: 12AM
+Temp: 71*F
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
-Time:
-Temp:
+Time: 
+Temp: 
 
 
 
