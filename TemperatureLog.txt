@@ -93,8 +93,8 @@ Temp: 62*F
 Time: 9AM
 Temp: 71*F
 
-Time: 
-Temp: 
+Time: 12PM
+Temp: 85*F
 
 Time: 
 Temp: 
